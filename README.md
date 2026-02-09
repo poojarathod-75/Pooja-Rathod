@@ -17,7 +17,10 @@
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Python, HTML, CSS
+- **Programming Languages:** Python
+- **Web Technologies:** HTML, CSS
+- **Databases:** SQL
+- **Data Analysis & Visualization:** Microsoft Excel, Power BI
 - **Tools:** VS Code, WAMPserver, Google Colab
 
 ---
@@ -36,9 +39,11 @@
 ---
 
 ### 🌟 Interests
-- ✈️ Traveling
-- 🎵 Listening to music
-- 📚 Learning new things
+- Project building
+- Basic Media Editing
+- Traveling
+- Listening to music
+- Learning new things
 
 ---
 
