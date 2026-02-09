@@ -30,8 +30,9 @@
 - [**My Digital Diary**](https://github.com/poojarathod-75/my-digital-diary)  
   _A personal diary application to record thoughts and memories._
 
-[**Sugarcane Leaf Disease Detection Using YOLOv8**](https://github.com/poojarathod-75/Sugarcane-Leaf-Disease-Detection.git)
-A web-based application using Flask and YOLO deep learning to automatically detect and classify sugarcane leaf diseases from uploaded images.
+- [**Sugarcane Leaf Disease Detection Using YOLOv8**](https://github.com/poojarathod-75/Sugarcane-Leaf-Disease-Detection.git)
+ _A web-based application using Flask and YOLO deep learning to automatically detect and classify sugarcane leaf diseases from uploaded images.
+
 ---
 
 ### 🌟 Interests
