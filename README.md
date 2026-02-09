@@ -2,14 +2,14 @@
 
 <h2 align="center">Hi there, I'm Pooja Rathod 👋</h2>
 <p align="center">
-  <b>Student & Aspiring Software Developer</b><br>
+  <b>Student & Aspiring Data Analyst</b><br>
   <i>Passionate about learning, building, and growing!</i>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 I am a student with a keen interest in software development.
+- 🎓 I am a student with a keen interest in Data Analyst.
 - 💡 I enjoy exploring new technologies, solving problems, and bringing ideas to life.
 - 🌱 Currently learning and growing my skills every day.
 - ✨ Self-motivated, curious, and always ready to take on new challenges!
